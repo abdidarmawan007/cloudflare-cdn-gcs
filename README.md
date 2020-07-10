@@ -49,5 +49,10 @@ expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi
 server: cloudflare
 cf-ray: 5b090aa3a898dd3e-SIN
 ```
-
-
+### header
+```
+cache-control: public, max-age=31536000 = cache ttl
+age: 1290 = cache age in pop cdn
+cf-ray: 5b0944f75b83e237-SIN = cache hit
+cf-ray: 5b0944f75b83e237-SIN = cache hit from pop cdn singapore
+```
