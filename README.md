@@ -16,7 +16,7 @@ https://search.google.com/search-console
 ![alt text](https://i.imgur.com/T1gelEV.png)
 
 ### create cname record in cloudflare for gcs storage for example we create cdn.yourdomain.id, 
-### name=cdn target=c.storage.googleapis.com
+### name: cdn target: c.storage.googleapis.com
 ![alt text](https://i.imgur.com/V9ZkW2l.png)
 
 
