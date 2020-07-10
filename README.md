@@ -63,3 +63,8 @@ https://www.cloudflarestatus.com/
 
 ### how user send to pop cdn location
 ![alt text](https://i.imgur.com/Re7KK6r.png)
+
+```
+https://community.cloudflare.com/t/peering-why-dont-i-reach-the-closest-datacenter-to-me/76479
+```
+
