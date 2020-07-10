@@ -60,3 +60,6 @@ cf-ray: 5b0944f75b83e237-SIN = cache hit from pop cdn singapore
 cloudflare cdn pop location and code name
 https://www.cloudflarestatus.com/
 ```
+
+### how user send to pop cdn location
+![alt text](https://i.imgur.com/Re7KK6r.png)
