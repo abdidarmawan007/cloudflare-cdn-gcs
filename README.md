@@ -1,6 +1,6 @@
 # cdn static assets cloudflare + google cloud storage
 
-# verification your domain in here
+### verification your domain in here
 ```
 https://search.google.com/search-console
 ```
