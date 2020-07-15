@@ -12,6 +12,9 @@ https://search.google.com/search-console
 ### after domain alredy verification by google create bucket with your domain for example cdn.yourdomain.id, create bucket with single region for example in singapore
 ![alt text](https://i.imgur.com/pusX8XZ.png)
 
+### create iam role for get object only for public
+![alt text](https://i.imgur.com/OKTkiea.png)
+
 ### create permission bucket read only to public
 ![alt text](https://i.imgur.com/T1gelEV.png)
 
