@@ -66,6 +66,7 @@ https://www.cloudflarestatus.com/
 
 ### Tips: Use Cloudlfare Enterprise for Cache HIT from POP/Edge Jakarta/Indonesia
 ```
+cf-cache-status: HIT
 server: cloudflare
 cf-ray: 640a0d191ff0354f-CGK
 ```
