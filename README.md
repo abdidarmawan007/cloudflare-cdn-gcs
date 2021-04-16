@@ -64,10 +64,9 @@ cloudflare cdn pop location and code name
 https://www.cloudflarestatus.com/
 ```
 
-### how user send to pop cdn location
-![alt text](https://i.imgur.com/Re7KK6r.png)
-
+### Tips: Use Cloudlfare Enterprise for Cache HIT from POP/Edge Jakarta/Indonesia
 ```
-https://community.cloudflare.com/t/peering-why-dont-i-reach-the-closest-datacenter-to-me/76479
+server: cloudflare
+cf-ray: 640a0d191ff0354f-CGK
 ```
 
