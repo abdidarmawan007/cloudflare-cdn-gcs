@@ -62,16 +62,15 @@ cloudflare cdn pop location and code name
 https://www.cloudflarestatus.com/
 ```
 
-#### Tips
-```
-Use GCP Loadbalander + Public IP if you already bucket with another name (not domain name) and set A Record in Cloudflare
-Make Code backend upload with set header to object " public, max-age=31536000, immutable "
-```
-
-### Tips: Use Cloudlfare Enterprise for Cache HIT from POP/Edge Jakarta/Indonesia
+### Use Cloudlfare Enterprise for Cache HIT from POP/Edge Jakarta/Indonesia
 ```
 cf-cache-status: HIT
 server: cloudflare
 cf-ray: 640a0d191ff0354f-CGK
 ```
 
+#### Tips
+```
+Use GCP Loadbalander + Public IP if you already bucket with another name (not domain name) and set A Record in Cloudflare
+Make Code backend upload with set header to object " public, max-age=31536000, immutable "
+```
