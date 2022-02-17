@@ -28,6 +28,10 @@ https://search.google.com/search-console
 ### set ssl/tls full
 ![alt text](https://i.imgur.com/GhikuKR.png)
 
+### create pagerules for our domain static asset
+![alt text](https://i.imgur.com/Sbq1kqC.png)
+
+
 ### remove GCS header via cf header modification
 ![alt text](https://i.imgur.com/S0A6BQI.png)
 ![alt text](https://i.imgur.com/Fc7aZhr.png)
