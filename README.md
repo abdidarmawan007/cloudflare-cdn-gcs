@@ -73,5 +73,5 @@ cf-ray: 640a0d191ff0354f-CGK
 ```
 Use GCP Loadbalander + Public IP if you already bucket with another name (not domain name) and set A Record in Cloudflare
 Set Cloudflare Browser Cache TTL 1 year
-Make Code backend upload with set metadata to object " public, max-age=31536000, immutable "
+Make Code backend upload with set metadata to object " cache-control: public, max-age=31536000 "
 ```
