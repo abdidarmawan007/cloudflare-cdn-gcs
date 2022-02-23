@@ -66,7 +66,7 @@ cloudflare cdn pop location and code name
 https://www.cloudflarestatus.com/
 ```
 
-### Use Cloudlfare Enterprise for Cache HIT from POP/Edge Jakarta/Indonesia
+### Use Cloudlfare Enterprise or Enable Argo Smart Routing for Cache HIT from POP/Edge Jakarta/Indonesia
 ```
 cf-cache-status: HIT
 server: cloudflare
