@@ -29,7 +29,7 @@ https://search.google.com/search-console
 ![alt text](https://i.imgur.com/GhikuKR.png)
 
 ### create pagerules for our domain static asset
-![alt text](https://i.imgur.com/Sbq1kqC.png)
+![alt text](https://i.imgur.com/lzTZ4hN.png)
 
 
 ### remove GCS header via cf header modification
